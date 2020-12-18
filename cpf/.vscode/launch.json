@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WebCpfApplication<validacpf>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.professorisidro.validacpf.WebCpfApplication",
+            "projectName": "validacpf",
+            "args": ""
+        }
+    ]
+}
